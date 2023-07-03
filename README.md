@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working as a web developer but i actually use to be a full stack dev
+- 🌱 I’m currently learning about AI and fullstack dev
+- 📫 How to reach me: joao@jpex.dev
