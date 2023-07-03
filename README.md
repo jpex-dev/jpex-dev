@@ -1,12 +1,8 @@
-### Hi there 👋
-### I´m João
+### Hi there 👋 I´m João
 <br>
 
-
-
-
-"Today Better Than Yesterday, Tomorrow Better Than Today."
-<br>
+<h2>"Today Better Than Yesterday, Tomorrow Better Than Today."</h2>
+<br><br>
 Im A 19y Developer. 
 <br>
 AI Enthusiast . 
