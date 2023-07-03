@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<br>
+### I´m João
+"Today Better Than Yesterday, Tomorrow Better Than Today."
+Hi! Im A 19y Developer. AI Enthusiast . Junior Dev. Chasing Knowledge!
 <!--
 **jpex-dev/jpex-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
