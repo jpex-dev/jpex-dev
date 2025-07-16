@@ -1,57 +1,80 @@
-# 👋 Hey, I'm João Peixoto
+<h1 align="center">👋 Hey, I'm João Peixoto</h1>
 
-> *"Today Better Than Yesterday, Tomorrow Better Than Today."*
+<p align="center"> 
+  <b>Full Stack Developer · Founder @ JP Systems · Tech Lover</b>  
+</p>
 
-🎯 I'm a 21-year-old Full Stack Developer, entrepreneur and lifelong learner based in Braga, Portugal.
+<p align="center">
+  <i>"Today Better Than Yesterday, Tomorrow Better Than Today."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joaogpeixoto&label=Profile%20views&color=0e75b6&style=flat" alt="joaogpeixoto" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍💻 Currently working as a **Full Stack Developer**  
-- 🧠 Passionate about **AI**, **automation** and building **scalable web solutions**  
-- 🏗️ Founder of [JP Systems](https://www.jp-systems.pt), where I help businesses grow through **modern web development**  
-- 🔍 Always chasing knowledge — whether it's improving my stack, exploring new tools, or building side projects  
-- 🎓 Final-year student in **Systems Engineering**
+- 🔧 21 y/o software engineer based in **Braga, Portugal**
+- 🧠 Passionate about **automation**, **UI/UX**, and **solving real-world problems**
+- 🧱 Founder of [JP Systems](https://www.jp-systems.pt)
+- 🎓 Final year of **Engenharia de Sistemas**
+- 📈 Constantly building & learning — currently deep diving into **React Native**, **Supabase**, and **GraphQL**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 My Tech Stack
 
-**Languages & Frameworks:**
-- JavaScript / TypeScript
-- React / Next.js
-- Node.js / Express
-- React Native / Ionic
-- HTML / CSS / Tailwind
-- C# / .NET (basic)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,supabase,sqlite,tailwind,html,css,git,github,figma,vscode,graphql" />
+</p>
 
-**Tools & Platforms:**
-- Supabase / PostgreSQL / SQLite
-- Git / GitHub / GitLab
-- Docker (learning)
-- Zustand, Redux, Context API
-- GraphQL (learning phase)
-- Microsoft Dynamics 365 (integrations)
+> 💡 Learning now: React Native, Docker, GraphQL, AI/ML tools
 
 ---
 
-## 📈 Goals
+## 🔥 GitHub Stats
 
-- 🔭 Build clean, modular and scalable products  
-- 🧩 Master fullstack best practices  
-- 🧠 Dive deeper into **AI & ML development**  
-- 🌍 Launch open-source tools and contribute to the dev community  
-- 🎯 Create powerful SaaS platforms with real-world impact
-
----
-
-## 📫 Let's Connect
-
-- 📧 Email: [joao@jpex.dev](mailto:joao@jpex.dev)  
-- 🌐 Website: [JP Systems](https://www.jp-systems.pt)  
-- 💼 LinkedIn: [linkedin.com/in/joaogpeixoto](https://www.linkedin.com/in/joaogpeixoto)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaogpeixoto&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogpeixoto&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-Thanks for stopping by! Let's build something awesome 🚀  
+## 💼 Projects & Work
+
+🛠️ [JP Systems - Website & Landing Pages](https://www.jp-systems.pt)  
+📲 Habits Tracker App (React Native + SQLite)  
+🔗 MS Dynamics Sync API (CRM to PostgreSQL)  
+🌐 Custom CMS for small businesses
+
+---
+
+## 🧠 Current Goals
+
+- 📱 Release mobile habit-tracker app  
+- 📊 Build a SaaS for small business automation  
+- 🧪 Launch open-source tools & contribute  
+- 🎓 Expand knowledge in AI, GraphQL, and backend architecture  
+
+---
+
+## 📫 Contact Me
+
+<div align="center">
+  <a href="mailto:joao@jpex.dev">
+    <img src="https://img.shields.io/badge/email-joao@jpex.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/joaogpeixoto">
+    <img src="https://img.shields.io/badge/LinkedIn-João%20Peixoto-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.jp-systems.pt">
+    <img src="https://img.shields.io/badge/Portfolio-jp--systems.pt-0A0A23?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<p align="center">Thanks for stopping by! Let’s build something awesome together 🚀</p>
